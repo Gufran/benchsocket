@@ -1,0 +1,32 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/codahale/hdrhistogram",
+			"revision": "954f16e8b9ef0e5d5189456aa4c1202758e04f17",
+			"revisionTime": "2015-07-08T06:40:06-07:00"
+		},
+		{
+			"path": "github.com/gorilla/websocket",
+			"revision": "3986be78bf859e01f01af631ad76da5b269d270c",
+			"revisionTime": "2015-12-15T21:10:58-08:00"
+		},
+		{
+			"path": "github.com/tylertreat/bench",
+			"revision": "08894fe7ae91f96a19ba0670fdaf3204b2500e0b",
+			"revisionTime": "2015-12-24T23:41:02-06:00"
+		},
+		{
+			"path": "golang.org/x/net/websocket",
+			"revision": "5d0a0f8cd486626821d2ba44d471ab1c9271d38f",
+			"revisionTime": "2015-12-24T08:05:47-08:00"
+		},
+		{
+			"origin": "github.com/Gufran/docker/vendor/src/github.com/gorilla/mux",
+			"path": "src/github.com/gorilla/mux",
+			"revision": "9681f0f0d4457f0e8dfb0c0473557a97e0cfef2b",
+			"revisionTime": "2015-12-17T16:58:41+01:00"
+		}
+	]
+}
